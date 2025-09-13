@@ -1,0 +1,1 @@
+import{_ as n}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{a as s,b as e,o as a}from"./base-2tROEyUa.js";const c={},u={class:"m-4"};function i(t,o){return a(),s("div",u,[o[1]||(o[1]=e("h1",null,"Extension About Page",-1)),e("button",{onClick:o[0]||(o[0]=(...r)=>t.$router.back&&t.$router.back(...r))}," Go Back ")])}const m=n(c,[["render",i]]);export{m as default};
